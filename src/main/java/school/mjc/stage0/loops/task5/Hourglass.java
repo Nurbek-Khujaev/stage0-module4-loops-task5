@@ -16,7 +16,7 @@ public class Hourglass {
 
 
                 }
-                System.out.println(" ");
+                System.out.print("\n");
             } else {
                 for (int j = 0; j < height; j++) {
 
@@ -29,7 +29,7 @@ public class Hourglass {
 
                 }
 
-                System.out.println(" ");
+                System.out.print("\n");
 
             }
 

@@ -15,7 +15,7 @@ public class Cross {
 
             }
 
-            System.out.println(" ");
+            System.out.print("\n");
 
         }
 
