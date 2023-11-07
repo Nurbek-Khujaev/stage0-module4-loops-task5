@@ -15,7 +15,7 @@ public class Square {
 
             }
 
-            System.out.println(" ");
+            System.out.print("\n");
 
         }
 
